@@ -473,8 +473,8 @@ app.tasks.tasks.process_media
 ### Clone
 
 ```bash
-git clone https://github.com/shahanazpr/distributed-media-processing-microservice.git
-cd distributed-media-processing-microservice
+git clone https://github.com/Sasmith-G/media-flow.git
+cd media-flow
 ```
 
 ### Create a Virtual Environment on Windows
@@ -691,4 +691,4 @@ The project is complete when:
 
 ## Repository
 
-https://github.com/shahanazpr/distributed-media-processing-microservice
+https://github.com/Sasmith-G/media-flow
